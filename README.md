@@ -1,4 +1,4 @@
-[![MasterHead]("https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem")
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Abdul Ahad Siddiqui</h1>
 <h3 align="center">Passionate Python Engineer | Expert in Web Development, Data Science, and Automation | Dedicated to Delivering Scalable Solutions</h3>
 
